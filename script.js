@@ -1,6 +1,6 @@
 // Floating WhatsApp Button
 const wa = document.createElement("a");
-wa.href = "https://wa.me/27746124822";
+wa.href = "https://wa.me/27720207880";
 wa.innerText = "WhatsApp Us";
 wa.style.position = "fixed";
 wa.style.bottom = "20px";
