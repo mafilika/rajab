@@ -92,29 +92,6 @@ nav .active {
 
 /* ---------------------- */
 /* HERO                    */
-/* ---------------------- */
-
-.hero {
-  padding: 150px 0;
-  background: var(--blue-primary);
-  color: var(--white);
-}
-
-.hero p {
-  color: var(--white);
-  margin: 15px 0;
-}
-
-.btn-primary {
-  background: var(--yellow);
-  padding: 12px 22px;
-  border-radius: 4px;
-  font-weight: 700;
-  display: inline-block;
-  color: var(--dark);
-  text-decoration: none;
-  margin-top: 10px;
-}
 
 .hero-bg {
   position: relative;
@@ -125,7 +102,6 @@ nav .active {
   background: url('https://images.ctfassets.net/09muo917z9ra/6334CYHfz2LpeGpahzw1GM/69c64af9c0ca53b683ff85c2b5376819/FB_IMG_1768819707158.jpg') center/cover no-repeat;
   color: var(--white);
 }
-
 .hero-bg .overlay {
   position: absolute;
   top: 0;
