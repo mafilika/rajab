@@ -129,6 +129,13 @@ nav .active {
   margin-bottom: 25px;
 }
 
+.hero-bg btn {
+  padding: 8px 14px;
+  background: var(--yellow);
+  border-radius: 4px;
+  color: var(--dark);
+  font-weight: 700;
+  
 @media(max-width: 800px) {
   .hero-bg {
     height: 70vh;
