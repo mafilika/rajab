@@ -122,7 +122,7 @@ nav .active {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: url('assets/img/pool-hero.jpg') center/cover no-repeat;
+  background: url('https://images.ctfassets.net/09muo917z9ra/6334CYHfz2LpeGpahzw1GM/69c64af9c0ca53b683ff85c2b5376819/FB_IMG_1768819707158.jpg') center/cover no-repeat;
   color: var(--white);
 }
 
