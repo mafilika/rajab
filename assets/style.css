@@ -141,7 +141,7 @@ nav .active {
   }
   
 /* SERVICES */
-.services-list-container {
+.services-list container {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
   gap: 22px;
